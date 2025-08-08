@@ -1,5 +1,11 @@
 # @browserbasehq/stagehand-lib
 
+## 2.5.0
+
+### Minor Changes
+
+- [`a51912d`](https://github.com/browserbase/stagehand/commit/a51912d401ecae7df3e584ff2e53c122f71f06ef) Thanks [@mandrysek](https://github.com/mandrysek)! - Allow add custom user agent for local browser setup
+
 ## 2.4.0
 
 ### Minor Changes

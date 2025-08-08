@@ -1,5 +1,15 @@
 # @browserbasehq/stagehand
 
+## 2.5.0
+
+### Minor Changes
+
+- [`a51912d`](https://github.com/browserbase/stagehand/commit/a51912d401ecae7df3e584ff2e53c122f71f06ef) Thanks [@mandrysek](https://github.com/mandrysek)! - Allow add custom user agent for local browser setup
+
+### Patch Changes
+
+- [#944](https://github.com/browserbase/stagehand/pull/944) [`8de7bd8`](https://github.com/browserbase/stagehand/commit/8de7bd8635c2051cd8025e365c6c8aa83d81c7e7) Thanks [@seanmcguire12](https://github.com/seanmcguire12)! - Bump zod version compatibility and add pathing spec
+
 ## 2.4.2
 
 ### Patch Changes
